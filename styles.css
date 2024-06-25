@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(44, 145, 44);
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 70px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    color: white;
+}
+
+.card{
+    height: 600px;
+    width: 400px;
+    background: white;
+    margin:auto;
+    border-radius: 15px;
+    border-color: black;
+}
