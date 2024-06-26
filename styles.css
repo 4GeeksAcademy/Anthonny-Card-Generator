@@ -18,4 +18,29 @@ h1{
     margin:auto;
     border-radius: 15px;
     border-color: black;
+    position:relative;
 }
+
+.head{
+    position:absolute;
+    top: -20px;
+    left: 20px;
+    font-size: 100px;
+}
+
+.number{
+    text-align: center;
+    line-height: 550px;
+    font-size: 250px;
+}
+
+
+.foot{
+    position:absolute;
+    bottom: -10px;
+    right: 20px;
+    font-size: 100px;
+    -webkit-transform: rotate(-180deg);
+    -moz-transform: rotate(-180deg);  
+}
+
